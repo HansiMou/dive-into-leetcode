@@ -29,3 +29,6 @@ public ArrayList();
 public ArrayList(int); 
 用指定的大小来初始化内部的数组
 
+** HashMap
+Implement Details: new one would be placed at the head of the list
+String hashcode needs iteration over the whole string
